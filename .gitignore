@@ -1,0 +1,51 @@
+###
+# Unity folders and files
+###
+[Aa]ssets/AssetStoreTools*
+[Aa]ssets/Plugins/Android
+[Bb]uild/
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Oo]bj/
+[Tt]emp/
+[Uu]nityGenerated/
+# file on crash reports
+sysinfo.txt
+# Unity3D generated meta files
+*.pidb.meta
+*.pib.meta
+###
+# VS/MD solution and project files
+###
+[Ee]xportedObj/
+*.booproj
+*.csproj
+*.sln
+*.suo
+*.svd
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+.DS_Store
+###
+# OS generated
+###
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+.idea/
+Assets/Plugins/Editor/JetBrains
+Assets/UserData
+# Visual Studio cache directory
+.vs/
+# Builds
+*.apk
+*.unitypackage
+AndroidResolverDependencies.xml
+Packages/packages-lock.json
